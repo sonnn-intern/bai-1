@@ -20,5 +20,8 @@ function showUserInfo() {
     displayUserInfo();
 }
 
-// gọi hàm để hiển thị thông tin người dùng
-showUserInfo();
+function main() {
+    showUserInfo();
+}
+
+main();
